@@ -57,11 +57,11 @@ body{
 .name
 {
  font-size: 20px;
- color:#d7ebee;
+ color:#2e2d0a;
  line-height: 1;
  letter-spacing: 1px;
  font-size: "Fire sans" sans-serif;
- text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+ text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
  
 }
 
@@ -71,15 +71,14 @@ body{
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 5px;
-    color:#d7ebee;
+    color:#070e0f;
     margin-bottom: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
 .pbody
-{   color: #d7ebee;
+{   color: #07292f;
     font-weight: 300;
-    opacity: 0.8;
     margin-bottom: 2em;
     font-size: 0.9rem;
     text-align: justify;
@@ -104,7 +103,7 @@ body{
     margin-bottom: 30px;
     font-size: 20px;
     padding-right: 50px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+   
  }
  .name{
     padding-top: 30px;
